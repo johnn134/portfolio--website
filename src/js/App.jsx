@@ -4,11 +4,7 @@ class App extends Component {
 
     render () {
 
-        return (
-            <div className="container">
-                <p>John Nelson's Portfolio</p>
-            </div>
-        );
+        return <div>React Webpack Boilerplate</div>;
 
     }
 
